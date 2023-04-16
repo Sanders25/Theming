@@ -1,0 +1,8 @@
+<resources>
+
+<!--    <style name="Base.V26.Theme.AppTheme.SplashScreen.Night" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+    </style>
+
+    <style name="Theme.AppTheme.SplashScreen" parent="Base.V26.Theme.AppTheme.SplashScreen.Night" />-->
+</resources>

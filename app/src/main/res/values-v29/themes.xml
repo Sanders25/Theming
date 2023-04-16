@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.V29.Theme.AppTheme" parent="Base.V26.Theme.AppTheme">
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+    </style>
+
+    <style name="Theme.AppTheme" parent="Base.V29.Theme.AppTheme" />
+</resources>
